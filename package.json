@@ -1,0 +1,24 @@
+{
+  "name": "server6.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server6.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan25maloney/StarWarsApp.git"
+  },
+  "author": "Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan25maloney/StarWarsApp/issues"
+  },
+  "homepage": "https://github.com/nathan25maloney/StarWarsApp#readme"
+}
